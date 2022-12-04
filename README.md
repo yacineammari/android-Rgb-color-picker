@@ -1,4 +1,4 @@
 "# color-picker-android" 
-"# android-Rgb-color-picker" 
-"# android-Rgb-color-picker" 
-"# android-Rgb-color-picker" 
+<h1 align="center">
+  <img alt="UI" src="https://ik.imagekit.io/ek2elc752/RGB_app.jpg" />
+</h1>
