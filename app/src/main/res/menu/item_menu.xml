@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/copy_rgb"
+        android:title="copy rgb for this color" />
+
+    <item
+        android:id="@+id/copy_hex"
+        android:title="copy hex for this color" />
+    <item
+        android:id="@+id/copy_hsv"
+        android:title="copy hsv for this color" />
+
+
+    <item
+        android:id="@+id/delete_color"
+        android:title="Delete This color" />
+
+
+</menu>
